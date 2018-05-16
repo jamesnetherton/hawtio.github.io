@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-community-js": [
-      "component---src-pages-community-js-19a91a3f404d0e66f7f4.js",
-      "component---src-pages-community-js-19a91a3f404d0e66f7f4.js.map"
+      "component---src-pages-community-js-66d08d9269da58737fc3.js",
+      "component---src-pages-community-js-66d08d9269da58737fc3.js.map"
     ],
     "component---src-templates-docs-template-js": [
       "component---src-templates-docs-template-js-a80cfdcfca212f4cbecd.js",
@@ -33,16 +33,16 @@
       "path---docs-plugins-4d02e88294a94d81c1ef.js.map"
     ],
     "path---": [
-      "path----d32dcd61d003cc1281e6.js",
-      "path----d32dcd61d003cc1281e6.js.map"
+      "path----d281d6e08fe5ba7d7f4b.js",
+      "path----d281d6e08fe5ba7d7f4b.js.map"
     ],
     "path---docs-configuration": [
       "path---docs-configuration-647290a739b4e6285613.js",
       "path---docs-configuration-647290a739b4e6285613.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-16c6a50345eeb308c7dd.js",
-      "component---src-layouts-index-js-16c6a50345eeb308c7dd.js.map"
+      "component---src-layouts-index-js-bc945dd2eb8a8c74b23b.js",
+      "component---src-layouts-index-js-bc945dd2eb8a8c74b23b.js.map"
     ],
     "path---docs": [
       "path---docs-b703c4419ed9485188b2.js",
@@ -81,9 +81,9 @@
       "path---docs-maven-plugins-f33d4e59e585c55596f8.js.map"
     ],
     "app": [
-      "app-49357d361efbc82cc6b3.js",
+      "app-4215cdd3d4896e182a94.js",
       "build-js-styles.css",
-      "app-49357d361efbc82cc6b3.js.map",
+      "app-4215cdd3d4896e182a94.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-contributing": [
