@@ -1,0 +1,2 @@
+webpackJsonp([0xc87e84adc828],{201:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(2),l=n(a),c=u(46),d=(n(c),function(e){e.data;return l.default.createElement("div",null,l.default.createElement("h1",null,"Documentation"),"TBD")});t.default=d,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-docs-js-390815801ef1d144a02a.js.map
